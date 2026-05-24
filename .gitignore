@@ -1,6 +1,6 @@
-*~
-*.bak
-# File backup
-
-desktop.ini
 Thumbs.db
+desktop.ini
+
+# File backup
+*.bak
+*~
