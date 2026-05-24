@@ -1,0 +1,6 @@
+*~
+*.bak
+# File backup
+
+desktop.ini
+Thumbs.db
