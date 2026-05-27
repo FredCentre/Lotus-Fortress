@@ -5,6 +5,7 @@ Bản dịch Tiếng Việt dành cho Team Fortress 2
 ### tf_english.txt: 1.43% (266/18343)
 ### chat_english.txt: 100% (10/10)
 ### gameui_english.txt: 100% (907/907)
+# Q&A
 Q: Đây là gì?
 
 A: Đây là bản dịch sang tiếng Việt do FredCentre thực hiện vì Valve có thể sẽ không bao giờ làm bản dịch chính
