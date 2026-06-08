@@ -1,14 +1,16 @@
 # Lotus Fortress
 Bản dịch Tiếng Việt dành cho Team Fortress 2
 > Lưu ý : Mọi bản dịch được thực hiện bởi FredCentre. Đôi lúc sẽ có thiếu sót trong quá trình biên dịch. Nếu bạn muốn đóng góp, bạn hoàn toàn có thể
-## Tiến trình biên dịch (cập nhật ngày 05/06/2026): 8.47%
-### tf_english.txt: 3.96% (738/18614)
+## Tiến trình biên dịch (cập nhật ngày 05/06/2026): 8.53%
+### tf_english.txt: 4.02% (749/18614)
 ### chat_english.txt: 100% (10/10)
 ### gameui_english.txt: 100% (907/907)
 #
 # CÁCH CÀI ĐẶT
 Xem video YouTube bên dưới để biết cách cài đặt Lotus Fortress
 [![Watch the video](https://img.youtube.com/vi/IUjZXvvue34/hqdefault.jpg)](https://www.youtube.com/watch?v=IUjZXvvue34)
+
+Lotus Fortress giờ đã có bộ cài đặt chính thức, bạn có thể [bấm vào đây để xem hướng dẫn](https://github.com/FredCentre/Lotus-Fortress/blob/main/INSTALLATION.md).
 
 # Q&A
 Q: Đây là gì?
@@ -37,4 +39,4 @@ A: Các tên riêng của các nhân vật (như Scout, Heavy,...) đều sẽ �
 #
 Lotus Fortress sử dụng giấy phép MIT
 
-© FredCentre Software. Team Fortress, thương hiệu Team Fortress đều được bảo lưu bởi Valve Corporation.
+*© FredCentre Software. Team Fortress, thương hiệu Team Fortress đều được bảo lưu bởi Valve Corporation.*

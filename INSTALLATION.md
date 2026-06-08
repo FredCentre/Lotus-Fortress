@@ -1,6 +1,6 @@
 # Windows
 
-Hiện Windows chưa có bộ cài đặt chính thức
+Bấm chuột phải vào file `windows.install.ps1` và chọn `Run with PowerShell` và làm theo hướng dẫn trong bộ cài đặt
 
 # Linux
 
