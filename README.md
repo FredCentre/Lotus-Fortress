@@ -36,6 +36,10 @@ A: Đó là do bản cập nhật đã ghi đè lên file `tf_english.txt`,  `ch
 Q: Một số văn bản vẫn chưa dịch sang tiếng Việt?
 
 A: Các tên riêng của các nhân vật (như Scout, Heavy,...) đều sẽ được giữ nguyên, một số văn bản chưa dịch là do tôi tập trung dịch những văn bản hiển thị thường xuyên nhất, các văn bản chưa dịch sẽ được dịch sau. Yên tâm!
+
+Q: Phông chữ bị lỗi hoặc hiển thị sai?
+
+A: Đây là lỗi của bên game, không phải do Lotus Fortress gây nên. Lí do là vì phông chữ gốc của TF2 không hỗ trợ các kí tự tiếng Việt (như ế, ồ, ự,...) nên game sẽ dùng phông chữ fallback (dự phòng) xen kẽ với phông chữ gốc, điều này dẫn đến một số kí tự lúc to lúc nhỏ.
 #
 Lotus Fortress sử dụng giấy phép MIT
 
