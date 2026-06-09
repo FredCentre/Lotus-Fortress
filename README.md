@@ -1,8 +1,8 @@
 # Lotus Fortress
 Bản dịch Tiếng Việt dành cho Team Fortress 2
 > Lưu ý : Mọi bản dịch được thực hiện bởi FredCentre. Đôi lúc sẽ có thiếu sót trong quá trình biên dịch. Nếu bạn muốn đóng góp, bạn hoàn toàn có thể
-## Tiến trình biên dịch (cập nhật ngày 08/06/2026): 8.53%
-### tf_english.txt: 4.02% (749/18614)
+## Tiến trình biên dịch (cập nhật ngày 09/06/2026): 8.94%
+### tf_english.txt: 4.45% (829/18614)
 ### chat_english.txt: 100% (10/10)
 ### gameui_english.txt: 100% (907/907)
 #
