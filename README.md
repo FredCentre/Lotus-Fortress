@@ -1,51 +1,64 @@
-# Lotus Fortress
-Bản dịch Tiếng Việt dành cho Team Fortress 2
-> Lưu ý : Mọi bản dịch được thực hiện bởi FredCentre. Đôi lúc sẽ có thiếu sót trong quá trình biên dịch. Nếu bạn muốn đóng góp, bạn hoàn toàn có thể
-## Tiến trình biên dịch (cập nhật ngày 09/06/2026): 8.94%
-### tf_english.txt: 4.45% (829/18614)
-### chat_english.txt: 100% (10/10)
-### gameui_english.txt: 100% (907/907)
-#
+<h3 align="center">Lotus Fortress TF2 Localization Vietnamese</h3>
+
+<p align="center">
+  Bản dịch Tiếng Việt dành cho Team Fortress 2
+</p>
+
+> [!WARNING]
+> Tiến trình biên dịch (cập nhật ngày 17/06/2026): 64% (Các nôi dung tạm thời có thể hiểu và sử dụng)
+
+> [!NOTE]
+> Lưu ý : Mọi bản dịch được thực hiện bởi FredCentre và Team Dịch. Đôi lúc sẽ có thiếu sót trong quá trình biên dịch. Nếu bạn muốn đóng góp, bạn hoàn toàn có thể
+
 # CÁCH CÀI ĐẶT
-Tải xuống tệp phiên bản [mới nhất](https://github.com/FredCentre/Lotus-Fortress/archive/refs/heads/main.zip) và giải nén thư mục chính (có tên "Lotus-Fortress") vào thư mục custom của TF2 theo đường dẫn sau: 
+* 1: Tải xuống phiên bản dịch mới nhất tại đây: [HERE!](https://github.com/FredCentre/Lotus-Fortress/releases)
+* 2: Chọn file tải về có tên (Lotus-Fortress-TF2-Localization-Vietnamese.VPK) Hãy nhớ đuôi file phải có ".VPK"
+* 3: Mở Steam lên vào nhấn chuột phải vào trò chơi sau đó làm theo hình dưới.
 
-steam/steamapps/common/teamfortress2/tf/custom
+<p align="center">
+  <img width="256" src="./img/Open.webp">
+</p>
 
-Ngoài ra, hãy đảm bảo rằng trong thư mục custom chỉ có duy nhất thư mục Lotus-Fortress.
+* 4: Khi steam đã mở thư mục game đi tới `tf\custom`.
+* 5: Bỏ file "Lotus-Fortress-TF2-Localization-Vietnamese.VPK" bạn đã tải.
+* 6: Tận hưởng thành quả!
+
 
 # Credits
-* Dev: K-M19
-* Translate: minaly23 & DFK2 & KingDuck404 & FredCentre
+* Original author: K-M19 & FurBox-Studio
+* Contributor: minaly23 & DFK2 & KingDuck404 & FredCentre
+* Maintainer: FredCentre
+
+# Tiến trình 
+
+| Quá trình    | tình trạng |
+|----------------|---------------|
+| Menu | ✔️ |
+| Upgrade trong M.v.M| ✔️ |
+| Nội dung | ✔️ |
+| Chi tiết vũ khí| ✔️  |
+| Các tips Class | ✔️  |
+| Các nội dung ngoài lề  | ❌ chừa  |
+| Nội dung vật phẩm | ❌ chừa |
+| Các nội dung Quest/Contracts  | ❌ chừa  |
+| Các nội dung chi tiết backgroup | ❌ chừa  |
 
 # Q&A
-Q: Đây là gì?
 
-A: Đây là bản dịch sang tiếng Việt do FredCentre thực hiện vì Valve có thể sẽ không bao giờ làm bản dịch chính
+### Q: Đây là gì?
+* A: Đây là bản dịch sang tiếng Việt cho Team Fortress 2 (Không chính thất).
 
-Q: Nó hoạt động như thế nào?
+### Q: Tôi có thể đóng góp bản dịch chứ?
+* A: Có (Tự do đóng góp)
 
-A: Mọi ngôn ngữ trong TF2 đều sẽ có một file chứa nội dung được bản địa hóa như `tf_english.txt`, `tf_russian.txt`,... Lotus Fortress hoạt động nhờ thay đổi nội dung ngôn ngữ trong `tf_english.txt`,  `chat_english.txt` và `gameui_english.txt`
+### Q: TF2 quay trở lại tiếng Anh?
+* A: Bạn chỉ cần xoá/gỡ bản mod ra khỏi thứ mục custom là được.
 
-Q: Tôi có thể tải về và dùng chứ?
+### Q: Một số văn bản vẫn chưa dịch sang tiếng Việt?
+* A: Các tên riêng của các (Class nhân vật, Tên bản đồ, tên vũ khí) đều sẽ được giữ nguyên, các văn bản chưa dịch sẽ được dịch sau. Yên tâm!
 
-A: Có, bạn hoàn toàn có thể tải về và thay thế file `tf_english.txt` gốc được đặt trong `<thư_mục_game>/tf/resource/` ;  thay thế `chat_english.txt` và `gameui_english.txt` gốc được đặt trong `<thư_mục_game>/hl2/resource/`
+### Q: Phông chữ bị lỗi/lệch hoặc hiển thị sai?
+* A: 1 số vùng chữ có thể bị hiển thị sai hoặc lệch vì do font của của bản dịch thật và Font không tương đồng, nếu bạn gập lỗi hãy thông báo cho chúng tôi tại [Đây](https://github.com/FredCentre/Lotus-Fortress/issues)!!
 
-Q: Tôi có thể đóng góp bản dịch chứ?
 
-A: Có
-
-Q: TF2 quay trở lại tiếng Anh sau một bản cập nhật?
-
-A: Đó là do bản cập nhật đã ghi đè lên file `tf_english.txt`,  `chat_english.txt` và `gameui_english.txt` đã được chỉnh sửa, bạn chỉ cần dán file lại vào đường dẫn là được
-
-Q: Một số văn bản vẫn chưa dịch sang tiếng Việt?
-
-A: Các tên riêng của các nhân vật (như Scout, Heavy,...) đều sẽ được giữ nguyên, một số văn bản chưa dịch là do tôi tập trung dịch những văn bản hiển thị thường xuyên nhất, các văn bản chưa dịch sẽ được dịch sau. Yên tâm!
-
-Q: Phông chữ bị lỗi hoặc hiển thị sai?
-
-A: Đây là lỗi của bên game, không phải do Lotus Fortress gây nên. Lí do là vì phông chữ gốc của TF2 không hỗ trợ các kí tự tiếng Việt (như ế, ồ, ự,...) nên game sẽ dùng phông chữ fallback (dự phòng) xen kẽ với phông chữ gốc, điều này dẫn đến một số kí tự lúc to lúc nhỏ.
-#
-Lotus Fortress sử dụng giấy phép MIT
-
-*© FredCentre Software. Team Fortress, thương hiệu Team Fortress đều được bảo lưu bởi Valve Corporation.*
+## Lotus Fortress sử dụng giấy phép [MIT](https://github.com/FredCentre/Lotus-Fortress?tab=MIT-1-ov-file)
