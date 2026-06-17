@@ -1,4 +1,4 @@
-<h3 align="center">Lotus Fortress TF2 Localization Vietnamese</h3>
+<h3 align="center">Lotus Fortress Localization Vietnamese</h3>
 
 <p align="center">
   Bản dịch Tiếng Việt dành cho Team Fortress 2
