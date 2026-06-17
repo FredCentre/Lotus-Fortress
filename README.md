@@ -12,7 +12,7 @@
 
 # CÁCH CÀI ĐẶT
 * 1: Tải xuống phiên bản dịch mới nhất tại đây: [HERE!](https://github.com/FredCentre/Lotus-Fortress/releases)
-* 2: Chọn file tải về có tên (Lotus-Fortress-TF2-Localization-Vietnamese.VPK) Hãy nhớ đuôi file phải có ".VPK"
+* 2: Chọn file tải về có tên (Lotus-Fortress-Localization-Vietnamese.VPK) Hãy nhớ đuôi file phải có ".VPK"
 * 3: Mở Steam lên vào nhấn chuột phải vào trò chơi sau đó làm theo hình dưới.
 
 <p align="center">
@@ -20,7 +20,7 @@
 </p>
 
 * 4: Khi steam đã mở thư mục game đi tới `tf\custom`.
-* 5: Bỏ file "Lotus-Fortress-TF2-Localization-Vietnamese.VPK" bạn đã tải.
+* 5: Bỏ file "Lotus-Fortress-Localization-Vietnamese.VPK" bạn đã tải.
 * 6: Tận hưởng thành quả!
 
 
